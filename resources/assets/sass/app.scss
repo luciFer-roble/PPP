@@ -1,0 +1,9 @@
+//**
+// Para que funcione la compilacion de mix debes abrir el ArchivoLTE y corregir la ruta de la depennecia de bootstrap
+// @import "../../../bootstrap/scss/functions";
+// @import "../../../bootstrap/scss/bootstrap";
+// debe quedar asi
+// **//
+@import "~admin-lte/build/scss/AdminLTE";
+
+@import "~font-awesome/scss/font-awesome";
